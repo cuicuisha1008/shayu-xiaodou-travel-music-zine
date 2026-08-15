@@ -3,7 +3,7 @@ name: travel-music-zine
 description: Turn user-supplied travel, street, architecture, landscape, or people photographs into 3:5 Xiaohongshu-ready Chinese music-metaphor zine posters. Use when Codex should distill a source-specific music object, present three copy options and ask for a preferred song before generation, optionally match from the embedded 100-song duration-complete library, recommend Sol or Terra with time guidance, show the generated art base for review, then after one Continue reply deliver the finished preview as a large inline image, and export 4K only after approval while preserving original photo pixels and exact geometry.
 ---
 
-# Travel Music Zine
+# 鲨鱼小豆 · Travel Music Zine
 
 Create music × travel ZINE posters whose metaphor, copy, music object, and track grow from the photograph. Begin by reading the image, not by choosing a music product or song title.
 
