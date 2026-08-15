@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行声像 ZINE"
+  short_description: "先看音乐底图，回复继续后正文展开最终预览大图"
+  default_prompt: "Use $travel-music-zine to analyze this travel photo, confirm copy and song, show me the music-object art base, then after I reply Continue finalize without image generation and embed the complete 1080x1800 preview as a large absolute-path Markdown image with a download link; export 4K only after approval."
