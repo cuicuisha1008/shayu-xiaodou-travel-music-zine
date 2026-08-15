@@ -72,7 +72,7 @@
 在 Codex 中发送：
 
 ```text
-请从 https://github.com/cuicuisha1008/travel-music-zine 安装 travel-music-zine Skill。
+请从 https://github.com/cuicuisha1008/shayu-xiaodou-travel-music-zine 安装 travel-music-zine Skill。
 ```
 
 安装后，可通过 `$travel-music-zine` 显式调用；当请求明显属于“旅行照片 × 音乐意象 × 中文 ZINE 海报”时，也可自动触发。
